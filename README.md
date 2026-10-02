@@ -2,7 +2,7 @@
 Welcome! This is the repository for Toadal Mayhem! I (Michael Buoni) have been working on this game mostly by myself since the beginning of August this year.
 
 ## JOIN THE DISCORD SERVER!
-Link: https://discord.gg/bzfdMNxA (If you want to contact me, my username is ASignificantSpek)
+Link: [https://discord.gg/bzfdMNxA](https://discord.gg/dBGSQJUAZ7) (If you want to contact me, my username is ASignificantSpek)
 
 ## Gameplay
 It is a 2D platformer game, meaning the main goal is to get to the other side of each level. Additionally, you can grab onto walls and jump off of them, and you can also use your tongue to stop time and retract it to move you in unique ways around the stage.
@@ -27,11 +27,4 @@ You can press and hold X to use the ability. Move the tongue around using the ar
 
 ### When Will This Be Released?
 
-I'm currently planning on releasing the demo for the game either late 2025 or early 2026. For the full game, it's hard to give an estimate but it would probably be mid to late 2026.
-
-### How Big Will The Game Be?
-
-My plan is to have enough to get a good feel for what the game should be like in the demo, so I will have the first 10 introductory levels in the demo, including the first boss fight. I want it to be a very polished representation of what the full game will be like.
-
-My current plans for the full game are to have 40 main levels, with each set of 10 having a unique theme. There will be 4 bosses and a story to tie it all together. Additionally, my friend offered to help make a few extra challenging levels for after the game is finished, there will probably be 5 or so of these. I'm also planning for there to be some extra fun interactions like a frog select screen when you first play the game which will change the frog you play as.
-
+Although this was planned to be released as a demo and later developed into a full game, due to school and wanting to work on other projects, what would have been the demo is now going to be the full game. It will be released on steam very soon! Join the discord server for updates!
